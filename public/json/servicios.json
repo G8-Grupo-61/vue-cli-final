@@ -1,0 +1,30 @@
+[
+  {
+    "titulo":"De la huerta a su cocina",
+    "subtitulo":"Venta de productos orgánicos",
+    "imagen":"cosecha2.jpg",
+    "textocorto":"En nuestras huertas tenemos frutas, verduras, legumbres, cereales y otros productos esenciales que ayudan a mantener una nutrición sana, completa y equilibrada.",
+    "textodetalle":"texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle "
+  },
+  {
+    "titulo":"Asesoría",
+    "subtitulo":"Asesoramiento nutricional profesional",
+    "imagen":"atencion_nutricional2.jpg",
+    "textocorto":"Nutrirse adecuadamente es uno de los objetivos que cada vez persiguen más personas. Tenemos expertos nutricionales que le pueden ayudar a alcanzar los máximos objetivos en el mínimo tiempo.",
+    "textodetalle":"texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto "
+  },
+  {
+    "titulo":"Recetas",
+    "subtitulo":"Lo mejor en recetas saludables",
+    "imagen":"atencion_nutricional.png",
+    "textocorto":"Con una poca inversión tienes los mejores resultados. Sin lugar a duda cuidar tu salud es lo más ecnónico que puedes hacer.",
+    "textodetalle":"texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto "
+  },
+  {
+    "titulo":"Su propia huerta",
+    "subtitulo":"Quiere fabricar su propia huerta casera ?",
+    "imagen":"crea_huerta2.jpg",
+    "textocorto":"Qué tal si le asesoramos profesionalmente para que usted mismo fabrique su propia huerta casera, en donde disponga siempre de productos de calidad, muy frescos y sabiendo siempre qué está consumiendo.",
+    "textodetalle":"texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle texto detalle "
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "titulo":"Alexander Pachón",
+    "subtitulo":"Producto Owner",
+    "imagen":"alex.png",
+    "textocorto":"Apasionado por el desarrollo web y los temas de tecnologías de la información. Me fascinan las espinacas y las ensaladas de atún con aguacate."
+  },
+  {
+    "titulo":"Alejandro Tique",
+    "subtitulo":"Scrum Master",
+    "imagen":"alejo.jpg",
+    "textocorto":"Interesado en los temas de Tecnología y Medio Ambiente. Me gusta estar en contacto con la naturaleza, viajar y hacer deporte. No salgo de casa sin una mochila."
+  },
+  {
+    "titulo":"Gustavo Herrera",
+    "subtitulo":"Development Team",
+    "imagen":"gustavo.jpg",
+    "textocorto":"Ing. de Sistemas antioqueño. Trabajé para el estado más de 20 años. Amante de la tecnología. Me apasiona la música caribeña. Disfruto mucho la naturaleza y la vida de provincia. Mi plan ideal: una tertulia musical y un buen café."
+  },
+  {
+    "titulo":"Gabriel Rincon",
+    "subtitulo":"Development Team",
+    "imagen":"gabriel.jpg",
+    "textocorto":"Estudiante de Ing. Topográfica, con interés de aprender sobre geomática y SIG. Me gustan los videojuegos, el futbol, salir de viaje, conocer nuevos lugares y disfrutar del tiempo con las personas que aprecio."
+  },
+  {
+    "titulo":"Guillermo Gomez",
+    "subtitulo":"Development Team",
+    "imagen":"guillermo2.png",
+    "textocorto":"Nihilista consumado. Diletante de las bellas artes. Amateur informático.Entusiasta de la comida saludable. He encontrado en la informática un nuevo coto de caza de conocimientos."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "titulo":"Tu peso",
+    "subtitulo":"Cuida el organismo y tu peso",
+    "imagen":"noticia-1.png",
+    "textocorto":"Los alimentos y bebidas que se consumen a diario son el combustible del organismo y pueden afectar de forma positiva o negativa diversos sistemas a largo plazo.",
+    "textodetalle":"texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto "
+  },
+  {
+    "titulo":"Ejercicio",
+    "subtitulo":"Alimentación y actividad física",
+    "imagen":"noticia-2.png",
+    "textocorto":"Aprende a combinar la alimentación y la actividad física para un cuerpo saludables",
+    "textodetalle":"texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto "
+  },
+  {
+    "titulo":"Tres alimentos deliciosos",
+    "subtitulo":"Pasta con jamón espárragos y alcachofas",
+    "imagen":"pasta.png",
+    "textocorto":"Una receta para almorzar con muy pocos ingredientes, Los espárragos verdes tienen muy pocas calorías y aportan mucha fibra, vitaminas A, B1, B2, B6, C y E; y minerales. Las alcachofas contienen fósforo, hierro, magnesio, calcio, potasio y vitaminas.",
+    "textodetalle":"texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto "
+  },
+  {
+    "titulo":"El sirope",
+    "subtitulo":"Sirope de ágave",
+    "imagen":"sirope2.png",
+    "textocorto":"Cambia la rutina con un sirope de cereal integral mucho más saludable que el azúcar refinado y contiene enzimas, minerales y vitaminas.",
+    "textodetalle":"texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto "
+  }
+]
