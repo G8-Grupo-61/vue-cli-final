@@ -6,14 +6,19 @@
       </h1>
 
     <!-- colocar desde aquí la plantilla y sus componentes -->
-
+      <primeros-pasos></primeros-pasos>
+      <mantenimiento-huerta></mantenimiento-huerta>
     </v-main>    
   </v-container>
   
 </template>
 
-<script>  
+<script>
+  import PrimerosPasos from '@/components/PrimerosPasos'
+import MantenimientoHuerta from '@/components/MantenimientoHuerta.vue'
+
   export default {
     name: 'Huerta',
+    components: { PrimerosPasos, MantenimientoHuerta,},
   }
 </script>
