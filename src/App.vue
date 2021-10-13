@@ -261,7 +261,7 @@ export default {
 				to: "/noticias",
 			},
 		],
-		links: ["Inicio", "Nosotros", "Equipo", "Servicios", "Blog", "Contactanos"],
+		links: ["Inicio", "Nosotros", "Equipo", "Servicios", "Blog", "Contactanos", "Enlaces Útiles"],
 	}),
 	computed: {		
 		emailErrors() {
